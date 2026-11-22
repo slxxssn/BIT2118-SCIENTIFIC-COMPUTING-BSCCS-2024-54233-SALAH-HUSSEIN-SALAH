@@ -1,6 +1,6 @@
 # BIT 2118 Scientific Computing
 
-Name: Fardosa Jibril | Reg No: bsccs202454679
+Name: salah hussein salah | Reg No: bsccs202454233
 
 ## Task 2: NumPy Arrays and Numerical Computation
 
