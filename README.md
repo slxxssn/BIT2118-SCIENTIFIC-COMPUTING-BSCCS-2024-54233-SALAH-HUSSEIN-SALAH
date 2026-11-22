@@ -1,3 +1,4 @@
+ HEAD
 # BIT 2118 Scientific Computing
 
 Name: salah hussein salah | Reg No: bsccs202454233
@@ -203,3 +204,6 @@ Name: salah hussein salah | Reg No: bsccs202454233
 ![Task 20 Monte Carlo](task20_monte_carlo.png)
 
 **New related case:** A help desk receives calls per hour with mean 45 and standard deviation 8, and the staff can handle at most 60 calls. Assumption: call numbers are normally distributed. With 100,000 simulations the estimated probability of more calls than the staff can handle is 3.114% (3114 cases), and the exact value is 3.04%. Interpretation: the help desk is overloaded about 3 hours in every 100, so it is generally adequately staffed.
+
+# BIT2118-SCIENTIFIC-COMPUTING-BSCCS-2024-54233-SALAH-HUSSEIN-SALAH
+253f09c8f1c637dfff3b5c213decb42097878302
